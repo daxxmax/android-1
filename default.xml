@@ -6,7 +6,7 @@
            review="https://android-review.googlesource.com/" />
   <remote name="gh"
           fetch="git://github.com/" />
-  <default revision="kitkat-dev"
+  <default revision="kitkat-release"
            remote="aosp"
            sync-j="4" />
 
